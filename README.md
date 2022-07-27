@@ -59,7 +59,7 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | #    | Startup                                                      | Domain                                                       | Location          |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- |
 | 1    | [Digified](https://digified.io/)                             | Machine Learning, Computer Vision                            | Cairo             |
-| 2    | [A-eye Tech]([A-eye Tech – A-eye Tech (aeyetechlabs.com)](https://aeyetechlabs.com/)) | Deep & Machine learning                                      | Cairo             |
+| 2    | [A-eye Tech](https://aeyetechlabs.com/)                      | Deep & Machine learning                                      | Cairo             |
 | 3    | [Yaoota!](https://yaoota.com/en-eg/)                         | Search engine, Big data, ML, NLP                             | Cairo             |
 | 4    | [Swvl](https://www.swvl.com/)                                | Data Analysis, Business Intelligence, Data Science           | Alexandria        |
 | 5    | [Botit](www.linkedin.com/company/botitapp)                   | Data Science, NLP                                            | Cairo             |
