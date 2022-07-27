@@ -1,6 +1,6 @@
-# This repository is intended to aid aspiring AI/MAI/ML Driven Companies / Startups In Egypt
+# AI/ML Driven Companies/Startups In Egypt
 
-This repository is intended to aid aspiring AI/ML enthusiasts by providing a list of companies / Startups working in such fields. However, this is a mere starting point, you need to put in your own work and lookup companies thoroughly to grasp the underlying tech used.   
+This repository is intended to aid aspiring AI/ML enthusiasts by providing a list of companies/Startups working in such fields. However, this is a mere starting point, you need to put in your own work and lookup companies thoroughly to grasp the underlying tech used.   
 
 ## Companies (75)
 | # | Company | Domain | Location |
@@ -54,6 +54,7 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | 47   |                                                              |                                                              |                       |
 | 48   |                                                              |                                                              |                       |
 | 49   |                                                              |                                                              |                       |
+| 50   |                                                              |                                                              |                       |
 ## Startups (150)
 | #    | Startup                                                      | Domain                                                       | Location          |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- |
@@ -77,59 +78,6 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | 18   |                                                              |                                                              |                   |
 | 19   |                                                              |                                                              |                   |
 | 20   |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
 |      |                                                              |                                                              |                   |
 |      |                                                              |                                                              |                   |
 |      |                                                              |                                                              |                   |
