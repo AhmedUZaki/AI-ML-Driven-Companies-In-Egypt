@@ -2,7 +2,7 @@
 
 This repository is intended to aid aspiring AI/ML enthusiasts by providing a list of companies/Startups working in such fields. However, this is a mere starting point, you need to put in your own work and lookup companies thoroughly to grasp the underlying tech used.   
 
-## Companies (75)
+## Companies (50)
 | # | Company | Domain | Location |
 | --- | --- | --- | --- |
 | 1    | [Vodafone Egypt](https://www.linkedin.com/company/vodafone/) | Machine learning,  Deep Learning, Big Data Analytics         | Smart Village         |
@@ -30,11 +30,11 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | 23   | [Botme](https://www.botme.com/)                              | Chatbots, NLP                                                | Giza                  |
 | 24   | [zTechnium](https://www.linkedin.com/company/inetwoks/)      | Machine Learning, Recommendation Systems                     | Nasr City, Cairo      |
 | 25   | [Dell Technologies](http://www.linkedin.com/company/delltechnologies) | Data Science, Machine Learning, Deep Learning                | Smart village         |
-| 26   |                                                              |                                                              |                       |
-| 27   |                                                              |                                                              |                       |
-| 28   |                                                              |                                                              |                       |
-| 29   |                                                              |                                                              |                       |
-| 30   |                                                              |                                                              |                       |
+| 26   | [ITWorx](https://www.linkedin.com/company/itworx/) | Business Intelligence, Big Data | Cairo |
+| 27   | [InnoVision Robotics](www.linkedin.com/company/innovisionrobotics/) | Robotics, computer vision | New Cairo |
+| 28   | [IBM Egypt](https://www.ibm.com/eg-en) | NLP(Watson practice team), ML, DL | Giza                  |
+| 29   | [Adam.ai](https://adam.ai/)                                  | NLP, machine learning, embedded systems                      | Nasr City, Cairo      |
+| 30   | [Arqamfc](https://www.arqamfc.com/)                          | Analytics                                                    | Nasr City, Cairo      |
 | 31   |                                                              |                                                              |                       |
 | 32   |                                                              |                                                              |                       |
 | 33   |                                                              |                                                              |                       |
@@ -55,7 +55,7 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | 48   |                                                              |                                                              |                       |
 | 49   |                                                              |                                                              |                       |
 | 50   |                                                              |                                                              |                       |
-## Startups (150)
+## Startups (50)
 | #    | Startup                                                      | Domain                                                       | Location          |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- |
 | 1    | [Digified](https://digified.io/)                             | Machine Learning, Computer Vision                            | Cairo             |
@@ -68,46 +68,46 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | 8    | [Brimore](www.linkedin.com/company/brimore)                  | Machine Learning, Deep Learning, Data Analytics              | Maadi, Cairo      |
 | 9    | [MerQ](https://www.merq.ai/)                                 | Chatbots, NLP                                                | Cairo             |
 | 10   | [DevisionX](https://devisionx.com/)                          | Machine Learning, Computer Vision, Deep Learning             | Heliopolis, Cairo |
-| 11   |                                                              |                                                              |                   |
-| 12   |                                                              |                                                              |                   |
-| 13   |                                                              |                                                              |                   |
-| 14   |                                                              |                                                              |                   |
-| 15   |                                                              |                                                              |                   |
-| 16   |                                                              |                                                              |                   |
-| 17   |                                                              |                                                              |                   |
+| 11   | [elmenus](www.linkedin.com/company/elmenus.com)              | Recommendation systems, NLP                                  | Maadi, Cairo      |
+| 12   | [DataGear](www.linkedin.com/company/data-gearbi)             | Data Mining, Business Intelligence                           | Cairo             |
+| 13   | [Cequens](https://www.cequens.com/)                          | Predictive models, Machine Learning, Chatbots                | Cairo             |
+| 14   | [ABM Egypt](http://abmegypt.net/)                            | NLP, Social Media analytics, Search Engine optimization      | Nasr city, Cairo  |
+| 15   | [Agolo](https://www.agolo.com/)                              | NLP, ML, DL                                                  | Cairo             |
+| 16   | [AvidBeam](https://www.avidbeam.com/)                        | Machine learning, OCR, Computer vision, DL                   | Maadi, Cairo      |
+| 17   | [Elves](https://www.elvesapp.com/)                           | Chatbots                                                     | El Gouna          |
 | 18   |                                                              |                                                              |                   |
 | 19   |                                                              |                                                              |                   |
 | 20   |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
-|      |                                                              |                                                              |                   |
+| 21   |                                                              |                                                              |                   |
+| 22   |                                                              |                                                              |                   |
+| 23   |                                                              |                                                              |                   |
+| 24   |                                                              |                                                              |                   |
+| 25   |                                                              |                                                              |                   |
+| 26   |                                                              |                                                              |                   |
+| 27   |                                                              |                                                              |                   |
+| 28   |                                                              |                                                              |                   |
+| 29   |                                                              |                                                              |                   |
+| 30   |                                                              |                                                              |                   |
+| 31   |                                                              |                                                              |                   |
+| 32   |                                                              |                                                              |                   |
+| 33   |                                                              |                                                              |                   |
+| 34   |                                                              |                                                              |                   |
+| 35   |                                                              |                                                              |                   |
+| 36   |                                                              |                                                              |                   |
+| 37   |                                                              |                                                              |                   |
+| 38   |                                                              |                                                              |                   |
+| 39   |                                                              |                                                              |                   |
+| 40   |                                                              |                                                              |                   |
+| 41   |                                                              |                                                              |                   |
+| 42   |                                                              |                                                              |                   |
+| 43   |                                                              |                                                              |                   |
+| 44   |                                                              |                                                              |                   |
+| 45   |                                                              |                                                              |                   |
+| 46   |                                                              |                                                              |                   |
+| 47   |                                                              |                                                              |                   |
+| 48   |                                                              |                                                              |                   |
+| 49   |                                                              |                                                              |                   |
+| 50   |                                                              |                                                              |                   |
 
 ## Credits
 This repository is nothing but a humble continuation of the great work done by [Abdelrahman Radwan](https://www.linkedin.com/in/abdelrahman-hamdy-radwan/), [Ibrahim Sharaf](https://www.linkedin.com/in/ibrahimsharafelden/) ,[harryadel](https://github.com/harryadel) and [Karim Negm](https://github.com/Kareem-negm) (May Allah have mercy upon his soul).
