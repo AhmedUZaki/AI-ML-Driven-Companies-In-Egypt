@@ -35,19 +35,19 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | 28   | [IBM Egypt](https://www.ibm.com/eg-en) | NLP(Watson practice team), ML, DL | Giza                  |
 | 29   | [Adam.ai](https://adam.ai/)                                  | NLP, machine learning, embedded systems                      | Nasr City, Cairo      |
 | 30   | [Arqamfc](https://www.arqamfc.com/)                          | Analytics                                                    | Nasr City, Cairo      |
-| 31   |                                                              |                                                              |                       |
-| 32   |                                                              |                                                              |                       |
-| 33   |                                                              |                                                              |                       |
-| 34   |                                                              |                                                              |                       |
-| 35   |                                                              |                                                              |                       |
-| 36   |                                                              |                                                              |                       |
-| 37   |                                                              |                                                              |                       |
-| 38   |                                                              |                                                              |                       |
-| 39   |                                                              |                                                              |                       |
-| 40   |                                                              |                                                              |                       |
-| 41   |                                                              |                                                              |                       |
-| 42   |                                                              |                                                              |                       |
-| 43   |                                                              |                                                              |                       |
+| 31   | [Wakeb Data](https://www.linkedin.com/company/wakeb-data/)   | Business Intelligence, Data Analysis, Artificial Intelligence | Cairo                 |
+| 32   | [360imaging](https://www.linkedin.com/company/360imaging)    | Computer Guided Surgery, Medical Imaging                     | Giza                  |
+| 33   | [ADVINTIC](https://www.linkedin.com/company/advintic)        | Machine Learning, Deep Learning                              | Cairo, Egypt          |
+| 34   | [iHub](https://www.linkedin.com/company/hqihub)              | Machine Learning                                             | Abbaseya, Cairo       |
+| 35   | [StratoChem Services](https://www.linkedin.com/company/stratochem-services) | Data analysis, Image processing, data mining                 | New Maadi, Cairo      |
+| 36   | [Tactful AI](https://www.linkedin.com/company/tactfulai)     | Conversational Agents, NLU, DL, Information Retrieval        | Cairo, Egypt          |
+| 37   | [Tahrir news](https://www.linkedin.com/company/tahrirnews)   | Machine learning, Deep learning, NLP(Arabic & English)       | Dokki, Giza           |
+| 38   | [TA Telecom](https://www.linkedin.com/company/tatelecom)     | Big Data                                                     | Heliopolis, Cairo     |
+| 39   | [Teradata](https://www.linkedin.com/company/teradata)        | Big Data Analytics, machine learning and data mining         | Cairo, Egypt          |
+| 40   | [The D. GmbH](https://www.linkedin.com/company/theddotgmbh)  | NLP, Chatbots, Computer Vision, Video Analysis               | Maadi, Cairo          |
+| 41   | [Tpay](https://www.linkedin.com/company/tpaymobile)          | Machine learning                                             | New Cairo, Cairo      |
+| 42   | [USYTech](https://www.linkedin.com/company/usy-tech) | NLP | Cairo, Egypt |
+| 43 | [Wuzzuf](https://www.linkedin.com/company/wuzzuf-com) | Machine learning, NLP, Search engines, Recommendation/Ranking systems and information retrieval | Cairo, Egypt |
 | 44   |                                                              |                                                              |                       |
 | 45   |                                                              |                                                              |                       |
 | 46   |                                                              |                                                              |                       |
@@ -75,11 +75,11 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | 15   | [Agolo](https://www.agolo.com/)                              | NLP, ML, DL                                                  | Cairo             |
 | 16   | [AvidBeam](https://www.avidbeam.com/)                        | Machine learning, OCR, Computer vision, DL                   | Maadi, Cairo      |
 | 17   | [Elves](https://www.elvesapp.com/)                           | Chatbots                                                     | El Gouna          |
-| 18   |                                                              |                                                              |                   |
-| 19   |                                                              |                                                              |                   |
-| 20   |                                                              |                                                              |                   |
-| 21   |                                                              |                                                              |                   |
-| 22   |                                                              |                                                              |                   |
+| 18   | [DilenyTech](https://www.linkedin.com/company/dilenytech/about/) | Computer Vision                                              | Giza, Egypt       |
+| 19   | [Synapse Analytics](https://www.linkedin.com/company/synapse-analytics/) | ML, Computer Vision                                          | Cairo, Egypt      |
+| 20   | [Fruitful Solutions](https://www.linkedin.com/company/fruitfulsolutions/) | Deep Learning, Computer Vision                               | Cairo, Egypt      |
+| 21   | [Digified](https://www.linkedin.com/company/digifiedegypt)   | Machine Learning, Computer Vision                            | Cairo, Egypt      |
+| 22   | [WideBot](https://www.linkedin.com/company/widebot)          | Chatbots, NLP                                                | Maadi, Cairo      |
 | 23   |                                                              |                                                              |                   |
 | 24   |                                                              |                                                              |                   |
 | 25   |                                                              |                                                              |                   |
