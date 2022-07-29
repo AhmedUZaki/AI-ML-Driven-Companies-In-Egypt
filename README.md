@@ -57,7 +57,7 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | 50   | [Microsoft ATLc](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | ML, DL, NLP, OCR, Speech, Search engines(Bing team)          | AbouRawash, Cairo     |
 | 51   | [OMS](http://www.omsme.com/)                                 | Machine learning, Deep learning, Computer vision, Speech, Social Media analytics, Big data, Embedded Software | Nasr City, Cairo      |
 | 52   | [BADR](http://www.elvesapp.com/)                             | big data and data science solutions                          | Alexandria            |
-| 53   | [EPSILON AI](**EPSILON AI<br/>**)                            | Machine learning, Deep learning, Computer vision, Speech, Social Media analytics, Big data, Embedded Software | Nasr City, Cairo      |
+| 53   | [EPSILON AI](https://www.epsiloneg.com/)                            | Machine learning, Deep learning, Computer vision, Speech, Social Media analytics, Big data, Embedded Software | Nasr City, Cairo      |
 | 54   | [Vditory](http://www.vditory.com/)                           | ML, Image processing, Computer vision.                       | Heliopolis, Cairo     |
 | 55 | [bld.ai](https://www.bld.ai/) | Data Science، AI، Software Development. |                       |
 ## Startups (25)
