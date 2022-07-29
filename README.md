@@ -2,7 +2,7 @@
 
 This repository is intended to aid aspiring AI/ML enthusiasts by providing a list of companies/Startups working in such fields. However, this is a mere starting point, you need to put in your own work and lookup companies thoroughly to grasp the underlying tech used.   
 
-## Companies (50)
+## Companies (55)
 | # | Company | Domain | Location |
 | --- | --- | --- | --- |
 | 1    | [Vodafone Egypt](https://www.linkedin.com/company/vodafone/) | Machine learning,  Deep Learning, Big Data Analytics         | Smart Village         |
@@ -48,14 +48,19 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | 41   | [Tpay](https://www.linkedin.com/company/tpaymobile)          | Machine learning                                             | New Cairo, Cairo      |
 | 42   | [USYTech](https://www.linkedin.com/company/usy-tech) | NLP | Cairo, Egypt |
 | 43 | [Wuzzuf](https://www.linkedin.com/company/wuzzuf-com) | Machine learning, NLP, Search engines, Recommendation/Ranking systems and information retrieval | Cairo, Egypt |
-| 44   |                                                              |                                                              |                       |
-| 45   |                                                              |                                                              |                       |
-| 46   |                                                              |                                                              |                       |
-| 47   |                                                              |                                                              |                       |
-| 48   |                                                              |                                                              |                       |
-| 49   |                                                              |                                                              |                       |
-| 50   |                                                              |                                                              |                       |
-## Startups (50)
+| 44   | [Sypron Solutions](https://www.linkedin.com/company/sypron-solutions/about/) | Big Data, ML, DL, Computer vision, NLP, General AI apps      | Helioplis, Cairo      |
+| 45   | [Speakol](www.linkedin.com/company/speakolads/about/)        | ML, DL, Big Data                                             | Dokki, Giza           |
+| 46   | [RDI](www.linkedin.com/company/rdi-the-engineering-company-for-digital-systems-development-/about/?viewAsMember=true) | Machine learning, Deep learning, Arabic/English OCR, Search engines, Information retrieval, Arabic/English NLP and Arabic/English speech recognition/identification | Dokki, Giza           |
+| 47   | [Optomatica](www.linkedin.com/company/optomatica/)           | Machine Learning, AI and Optimization solutions, Analytics   | Giza                  |
+| 48   | [Raisa Energy](www.linkedin.com/company/raisa-energy)        | automation, AI, and Big Data                                 | Maadi, Cairo          |
+| 49   | [Oracle](www.linkedin.com/company/oracle/about/)             | Machine learning, Big data                                   | Cairo                 |
+| 50   | [Microsoft ATLc](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | ML, DL, NLP, OCR, Speech, Search engines(Bing team)          | AbouRawash, Cairo     |
+| 51   | [OMS](http://www.omsme.com/)                                 | Machine learning, Deep learning, Computer vision, Speech, Social Media analytics, Big data, Embedded Software | Nasr City, Cairo      |
+| 52   | [BADR](http://www.elvesapp.com/)                             | big data and data science solutions                          | Alexandria            |
+| 53   | [EPSILON AI](**EPSILON AI<br/>**)                            | Machine learning, Deep learning, Computer vision, Speech, Social Media analytics, Big data, Embedded Software | Nasr City, Cairo      |
+| 54   | [Vditory](http://www.vditory.com/)                           | ML, Image processing, Computer vision.                       | Heliopolis, Cairo     |
+| 55 | [bld.ai](https://www.bld.ai/) | Data Science، AI، Software Development. |                       |
+## Startups (25)
 | #    | Startup                                                      | Domain                                                       | Location          |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- |
 | 1    | [Digified](https://digified.io/)                             | Machine Learning, Computer Vision                            | Cairo             |
@@ -80,34 +85,9 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | 20   | [Fruitful Solutions](https://www.linkedin.com/company/fruitfulsolutions/) | Deep Learning, Computer Vision                               | Cairo, Egypt      |
 | 21   | [Digified](https://www.linkedin.com/company/digifiedegypt)   | Machine Learning, Computer Vision                            | Cairo, Egypt      |
 | 22   | [WideBot](https://www.linkedin.com/company/widebot)          | Chatbots, NLP                                                | Maadi, Cairo      |
-| 23   |                                                              |                                                              |                   |
-| 24   |                                                              |                                                              |                   |
-| 25   |                                                              |                                                              |                   |
-| 26   |                                                              |                                                              |                   |
-| 27   |                                                              |                                                              |                   |
-| 28   |                                                              |                                                              |                   |
-| 29   |                                                              |                                                              |                   |
-| 30   |                                                              |                                                              |                   |
-| 31   |                                                              |                                                              |                   |
-| 32   |                                                              |                                                              |                   |
-| 33   |                                                              |                                                              |                   |
-| 34   |                                                              |                                                              |                   |
-| 35   |                                                              |                                                              |                   |
-| 36   |                                                              |                                                              |                   |
-| 37   |                                                              |                                                              |                   |
-| 38   |                                                              |                                                              |                   |
-| 39   |                                                              |                                                              |                   |
-| 40   |                                                              |                                                              |                   |
-| 41   |                                                              |                                                              |                   |
-| 42   |                                                              |                                                              |                   |
-| 43   |                                                              |                                                              |                   |
-| 44   |                                                              |                                                              |                   |
-| 45   |                                                              |                                                              |                   |
-| 46   |                                                              |                                                              |                   |
-| 47   |                                                              |                                                              |                   |
-| 48   |                                                              |                                                              |                   |
-| 49   |                                                              |                                                              |                   |
-| 50   |                                                              |                                                              |                   |
+| 23   | [Trendak](http://trendak.com/)                               | Machine learning, Social Media analytics, NLP and Big data.  | Heliopolis, Cairo |
+| 24   | [VAIS](https://www.linkedin.com/company/visual-and-ai-solutions/about/) | innovative and proprietary AI/deep learning algorithms and solutions that are deployed on mobile/handheld devices and on the cloud. | Giza              |
+| 25   | [Valoro](https://valoro.xyz/)                                | blockchain، BAAS، Softeware، AI، ERP ,Hyperledger.           | Cairo             |
 
 ## Credits
 This repository is nothing but a humble continuation of the great work done by [Abdelrahman Radwan](https://www.linkedin.com/in/abdelrahman-hamdy-radwan/), [Ibrahim Sharaf](https://www.linkedin.com/in/ibrahimsharafelden/) ,[harryadel](https://github.com/harryadel) and [Karim Negm](https://github.com/Kareem-negm) (May Allah have mercy upon his soul).
