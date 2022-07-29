@@ -59,7 +59,7 @@ This repository is intended to aid aspiring AI/ML enthusiasts by providing a lis
 | 52   | [BADR](http://www.elvesapp.com/)                             | big data and data science solutions                          | Alexandria            |
 | 53   | [EPSILON AI](https://www.epsiloneg.com/)                            | Machine learning, Deep learning, Computer vision, Speech, Social Media analytics, Big data, Embedded Software | Nasr City, Cairo      |
 | 54   | [Vditory](http://www.vditory.com/)                           | ML, Image processing, Computer vision.                       | Heliopolis, Cairo     |
-| 55 | [bld.ai](https://www.bld.ai/) | Data Science، AI، Software Development. |                       |
+| 55 | [Shahry](www.linkedin.com/company/shahry) | Data Science، AI، Software Development. |            Cairo          |
 ## Startups (25)
 | #    | Startup                                                      | Domain                                                       | Location          |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- |
